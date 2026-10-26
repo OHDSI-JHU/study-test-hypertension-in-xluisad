@@ -9,4 +9,4 @@ a messy first commit is exactly right.
 
 | Name | Institution | Role | GitHub username |
 |---|---|---|---|
-| _e.g. Jane Okafor_ | _e.g. Johns Hopkins_ | _e.g. Study lead_ | _e.g. @jokafor_ |
+| Sherri Xu | Johns Hopkins | Study lead |  |
